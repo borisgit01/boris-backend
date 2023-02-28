@@ -8,3 +8,4 @@ npx nodemon --exec npx babel-node src/server.js
 npm run dev
 npm install @hapi/boom
 npm install mysql
+npm install uuid
