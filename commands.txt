@@ -9,3 +9,5 @@ npm run dev
 npm install @hapi/boom
 npm install mysql
 npm install uuid
+
+npm install firebase-admin
